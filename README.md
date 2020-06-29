@@ -1,0 +1,2 @@
+# BMS-STM32F407
+项目基于STM32F407硬件运行平台和Free RTOS运行环境。
